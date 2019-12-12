@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/workspace/Clion_Projects/StudentExamRecordSystem/Student.h
+iostream
+-
+
+F:/workspace/Clion_Projects/StudentExamRecordSystem/StudentRecord.h
+iostream
+-
+fstream
+-
+Student.h
+F:/workspace/Clion_Projects/StudentExamRecordSystem/Student.h
+
+F:/workspace/Clion_Projects/StudentExamRecordSystem/choiceHandler.h
+iostream
+-
+StudentRecord.h
+F:/workspace/Clion_Projects/StudentExamRecordSystem/StudentRecord.h
+string.h
+-
+dirent.h
+-
+windows.h
+-
+
+F:/workspace/Clion_Projects/StudentExamRecordSystem/main.cpp
+iostream
+-
+choiceHandler.h
+F:/workspace/Clion_Projects/StudentExamRecordSystem/choiceHandler.h
+

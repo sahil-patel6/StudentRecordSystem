@@ -1,0 +1,13 @@
+Name : CDEF
+Roll No: 1112
+Std : 12
+Marks: 
+English : 12.000000
+Lang II : 12.000000
+Maths : 12.000000
+Physics : 12.000000
+Chemistry : 12.000000
+Biology / Computer Science : 12.000000
+Total: 72.000000
+Percentage : 60.000000%
+Grade : D
